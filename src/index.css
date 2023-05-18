@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.chessboard-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.chessboard {
+  /* Existing styles for the chessboard */
+}
+
+.row {
+  /* Existing styles for the row */
+}
+
+.cell {
+  /* Existing styles for the cell */
+}
